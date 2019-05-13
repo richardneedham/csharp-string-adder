@@ -1,0 +1,9 @@
+C:\work\git\string-adder\string_concatenator_test\string_concat\bin\Debug\netstandard2.0\string_concat.deps.json
+C:\work\git\string-adder\string_concatenator_test\string_concat\bin\Debug\netstandard2.0\string_concat.dll
+C:\work\git\string-adder\string_concatenator_test\string_concat\bin\Debug\netstandard2.0\string_concat.pdb
+C:\work\git\string-adder\string_concatenator_test\string_concat\obj\Debug\netstandard2.0\string_concat.csprojResolveAssemblyReference.cache
+C:\work\git\string-adder\string_concatenator_test\string_concat\obj\Debug\netstandard2.0\string_concat.csproj.CoreCompileInputs.cache
+C:\work\git\string-adder\string_concatenator_test\string_concat\obj\Debug\netstandard2.0\string_concat.AssemblyInfoInputs.cache
+C:\work\git\string-adder\string_concatenator_test\string_concat\obj\Debug\netstandard2.0\string_concat.AssemblyInfo.cs
+C:\work\git\string-adder\string_concatenator_test\string_concat\obj\Debug\netstandard2.0\string_concat.dll
+C:\work\git\string-adder\string_concatenator_test\string_concat\obj\Debug\netstandard2.0\string_concat.pdb

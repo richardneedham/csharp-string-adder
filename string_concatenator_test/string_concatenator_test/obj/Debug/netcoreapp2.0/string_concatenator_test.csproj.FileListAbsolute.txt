@@ -1,0 +1,17 @@
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\obj\Debug\netcoreapp2.0\string_concatenator_test.csprojResolveAssemblyReference.cache
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\obj\Debug\netcoreapp2.0\string_concatenator_test.csproj.CoreCompileInputs.cache
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\obj\Debug\netcoreapp2.0\string_concatenator_test.AssemblyInfoInputs.cache
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\obj\Debug\netcoreapp2.0\string_concatenator_test.AssemblyInfo.cs
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\string_concatenator_test.deps.json
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\string_concatenator_test.runtimeconfig.json
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\string_concatenator_test.runtimeconfig.dev.json
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\string_concatenator_test.dll
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\string_concatenator_test.pdb
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\string_concat.dll
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\bin\Debug\netcoreapp2.0\string_concat.pdb
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\obj\Debug\netcoreapp2.0\string_concatenator_test.csproj.CopyComplete
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\obj\Debug\netcoreapp2.0\string_concatenator_test.dll
+C:\work\git\string-adder\string_concatenator_test\string_concatenator_test\obj\Debug\netcoreapp2.0\string_concatenator_test.pdb
